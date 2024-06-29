@@ -1,0 +1,6 @@
+__pycache__/
+exps/
+.vscode/
+debug/
+test_*/
+pretrained_model/*
